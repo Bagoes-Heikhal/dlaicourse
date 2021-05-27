@@ -116,7 +116,7 @@ async function predict() {
 			predictionText = "I see Spock";
 			break;
     case 4:
-      predictionText = "I see Lizar";
+      predictionText = "I see Lizard";
       break;
             
         // Add a case for lizard samples.
